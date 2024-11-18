@@ -3,3 +3,4 @@ git --- init --to set up local repository
         commit----save changes(still in local repo)(staging repo)
         push-----local repo to remote repo
         pull---remote to local repo
+        checkout-----local to working dir
