@@ -9,3 +9,4 @@ tools to access git
 
 1 cloud interface  - giyhub
 2. cli-gitcli
+git clone<url>
