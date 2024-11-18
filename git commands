@@ -1,0 +1,5 @@
+git --- init --to set up local repository
+        add----put data into local
+        commit----save changes(still in local repo)(staging repo)
+        push-----local repo to remote repo
+        pull---remote to local repo
